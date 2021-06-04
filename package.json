@@ -16,5 +16,8 @@
     "@types/aws-lambda": "^8.10.76",
     "netlify-lambda": "^2.0.8",
     "typescript": "^4.3.2"
+  },
+  "dependencies": {
+    "aws-lambda": "^1.0.6"
   }
 }
